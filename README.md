@@ -1,5 +1,7 @@
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/Artemitol/recipe-page-main/assets/148280392/eda6c18d-0e05-4d00-be7a-a66ca5cf79ff)
+![image](https://github.com/Artemitol/recipe-page-main/assets/148280392/976ecc42-fd59-4c99-8499-1bb0733e80a8)
+
+
 
 # Front-end Style Guide
 
